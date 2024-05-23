@@ -6,8 +6,8 @@
 
 HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
-|   Index | Name                                            | Difficulty   | Tutorial                                                                                          |
-|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------|
+|   Index | Name                                           | Difficulty   | Tutorial                                                                                         |
+|---------|------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First HTML Lab                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-html-lab-92740)                          |
 |      02 | 📖 Header and Home Layout                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/header-and-home-layout-271712)                      |
 |      03 | 📖 Showcase Pet Services Website                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/showcase-pet-services-website-271713)               |
@@ -121,7 +121,8 @@ HTML is a markup language that is used to create web pages. It is the standard m
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
