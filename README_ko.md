@@ -8,20 +8,15 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML 은 웹 개발의 핵심입니다. 이 스킬 트리는 HTML 마스터를 위한 포괄적인 학습 경로를 제시합니다. 웹 개발 초보자에게 적합하며, 문서 구조, 태그 및 시맨틱 마크업을 이해하기 위한 체계적인 로드맵을 제공합니다. 실습 중심의 비디오 없는 코스와 동적 HTML 플레이그라운드에서의 실용적인 연습을 통해, 잘 구조화된 웹 페이지를 만드는 실제 경험을 얻을 수 있습니다.
+웹 개발의 초석인 HTML 을 이 포괄적인 학습 경로를 통해 배우세요. 초보자를 위해 설계된 이 로드맵은 HTML 마스터를 위한 체계적인 접근 방식을 제공합니다. 대화형 HTML 강좌는 문서 구조, 태그 및 시맨틱 마크업을 다룹니다. 동적인 HTML 플레이그라운드에서 실습 위주의 비디오 없는 연습을 완료하여 잘 구성된 웹 페이지를 만들고 실제 경험을 쌓으세요.
 
-|   인덱스 | 이름                                                                                                                                 | 난이도   | 튜토리얼 링크                                                                                    |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------|
-|       01 | [📖 첫 HTML 랩](https://labex.io/ko/tutorials/html-your-first-html-lab-92740)                                                        | 중급     | [🔗 View](https://labex.io/ko/tutorials/html-your-first-html-lab-92740)                          |
-|       02 | [📖 다양한 레벨의 HTML 제목](https://labex.io/ko/tutorials/html-html-headings-of-various-levels-70769)                               | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-headings-of-various-levels-70769)              |
-|       03 | [📖 HTML 목록 항목](https://labex.io/ko/tutorials/html-html-list-item-70788)                                                         | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-list-item-70788)                               |
-|       04 | [📖 HTML 줄 바꿈](https://labex.io/ko/tutorials/html-html-line-break-70715)                                                          | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-line-break-70715)                              |
-|       05 | [📖 HTML 순서가 있는 목록](https://labex.io/ko/tutorials/html-html-ordered-list-70806)                                               | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-ordered-list-70806)                            |
-|       06 | [📖 Visual Studio Code 에서 HTML 단락 만들기](https://labex.io/ko/tutorials/html-create-html-paragraphs-in-visual-studio-code-70813) | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-create-html-paragraphs-in-visual-studio-code-70813) |
-|       07 | [📖 HTML 순서 없는 목록](https://labex.io/ko/tutorials/html-html-unordered-list-70875)                                               | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-unordered-list-70875)                          |
-|       08 | [📖 폼 및 푸터 레이아웃](https://labex.io/ko/tutorials/html-form-and-footer-layout-271711)                                           | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-form-and-footer-layout-271711)                      |
-|       09 | [📖 헤더 및 홈 레이아웃](https://labex.io/ko/tutorials/html-header-and-home-layout-271712)                                           | 중급     | [🔗 View](https://labex.io/ko/tutorials/html-header-and-home-layout-271712)                      |
-|       10 | [📖 반려동물 서비스 웹사이트 소개](https://labex.io/ko/tutorials/html-showcase-pet-services-website-271713)                          | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-showcase-pet-services-website-271713)               |
+|   인덱스 | 이름                                                                                   | 난이도   | 튜토리얼 링크                                                                |
+|----------|----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------|
+|        1 | [📖 HTML 문서 구조](https://labex.io/ko/tutorials/html-html-document-structure-597898) | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-document-structure-597898) |
+|        2 | [📖 HTML 이미지](https://labex.io/ko/tutorials/html-html-images-597900)                | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-images-597900)             |
+|        3 | [📖 HTML 링크](https://labex.io/ko/tutorials/html-html-links-597901)                   | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-links-597901)              |
+|        4 | [📖 HTML 목록](https://labex.io/ko/tutorials/html-html-lists-597902)                   | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-lists-597902)              |
+|        5 | [📖 HTML 텍스트 서식](https://labex.io/ko/tutorials/html-html-text-formatting-597904)  | 초급     | [🔗 View](https://labex.io/ko/tutorials/html-html-text-formatting-597904)    |
 
 ## 더 보기
 
