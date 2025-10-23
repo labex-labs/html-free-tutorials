@@ -10,13 +10,8 @@
 
 通过这条全面的学习路径，学习 HTML——网页开发的基石。本路线图专为初学者设计，提供了一种掌握 HTML 的结构化方法。交互式 HTML 课程涵盖文档结构、标签和语义化标记。通过在动态 HTML 演练场中完成动手实践的非视频练习，获得真实世界的经验，从而创建结构良好的网页。
 
-|   序号 | 名称                                                                                  | 难度   | 教程链接                                                                     |
-|--------|---------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------|
-|      1 | [📖 HTML 文档结构](https://labex.io/zh/tutorials/html-html-document-structure-597898) | 初级   | [🔗 View](https://labex.io/zh/tutorials/html-html-document-structure-597898) |
-|      2 | [📖 HTML 图片](https://labex.io/zh/tutorials/html-html-images-597900)                 | 初级   | [🔗 View](https://labex.io/zh/tutorials/html-html-images-597900)             |
-|      3 | [📖 HTML 链接](https://labex.io/zh/tutorials/html-html-links-597901)                  | 初级   | [🔗 View](https://labex.io/zh/tutorials/html-html-links-597901)              |
-|      4 | [📖 HTML 列表](https://labex.io/zh/tutorials/html-html-lists-597902)                  | 初级   | [🔗 View](https://labex.io/zh/tutorials/html-html-lists-597902)              |
-|      5 | [📖 HTML 文本格式化](https://labex.io/zh/tutorials/html-html-text-formatting-597904)  | 初级   | [🔗 View](https://labex.io/zh/tutorials/html-html-text-formatting-597904)    |
+| 序号   | 名称   | 难度   | 教程链接   |
+|--------|--------|--------|------------|
 
 ## 更多
 
